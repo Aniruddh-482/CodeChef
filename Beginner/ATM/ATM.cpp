@@ -2,18 +2,18 @@
 using namespace std;
 
 int main(){
-    int withdraw;
-    double balance;
+    int w;
+    double t;
 
-    cin >> withdraw >> balance;
+    cin >> w >> t;
 
-    if (withdraw % 5 != 0)
+    if (w % 5 != 0)
     {
-        cout << balance << endl;
+        cout << t << endl;
     }
     else
     {
-        cout << balance - double(withdraw) - 0.5 << endl;
+        cout << t - double(w) - 0.5 << endl;
     }
 
     return 0;
