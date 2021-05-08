@@ -27,7 +27,7 @@ For each successful withdrawal the bank charges 0.50 $US. Calculate Pooja's acco
 * Example - Insufficient Funds
   * Input:
     300 120.00
-
   * Output:
     120.00
 <hr>
+
