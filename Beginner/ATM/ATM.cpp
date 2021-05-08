@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int withdraw;
-    double balance, total;
+    double balance;
 
     cin >> withdraw >> balance;
 
