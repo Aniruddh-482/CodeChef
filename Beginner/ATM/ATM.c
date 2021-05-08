@@ -4,8 +4,10 @@ int main()
 {   
     int w;
     float t;
+    
   	scanf("%d%f",&w,&t);
-   	if(w+0.5>t || w%5!=0)
+   	
+    if(w+0.5>t || w%5!=0)
    	{
    		printf("%.2f",t);		
    	}
